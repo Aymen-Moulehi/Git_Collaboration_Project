@@ -1,9 +1,10 @@
 package classes;
 
 public class ClassBalighOthman {
+    public int ba ;
     public int Baligh() {
-        print("hello i'am baligh");
-      return ba ;
+        System.out.println("hello i'am baligh");
+        return ba ;
     }
 
 }
