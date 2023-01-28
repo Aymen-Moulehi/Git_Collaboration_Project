@@ -6,7 +6,7 @@ public class Class_Gheriani_Mohamed {
 
     public void hello()
         {
-        System.out.println("Hello I'am Gheriani Mohamed!");
+        System.out.println("Hello Its Gheriani Mohamed!");
         }
 
 }
